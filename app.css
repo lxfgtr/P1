@@ -1,0 +1,52 @@
+/*nimic
+de nicaieri*/
+@import url('https://fonts.googleapis.com/css?family=Baloo+Chettan+2:100,200,600,800&display=swap');
+h1{
+	padding: 3px 25px;
+
+	/*color:darkgrey;*/
+	font-weight: 600;
+	/*text-transform: uppercase;*/
+	font-size: 30px;
+	border-top: 2px solid;
+	/*border-bottom: 1px solid;*/
+
+}
+body {
+	background-color: black;
+	color: grey;
+	font-family:"Baloo Chettan 2";
+	font-weight: 100;
+}
+img	{
+	height: 400px;
+	border-radius: 100%;
+}
+#container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height:	100vh;
+}
+button {
+	margin: 30px auto 0;
+	padding: 10px 25px;
+	background-color: black;
+	color: white;
+	color: red;
+	font-size: 12px;
+	border-size: 1px;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 2px;
+	outline: none;
+}
+button:hover {
+	transition: 0.3s;
+	background-color: white;
+	color:black;
+	font-weight: 200;
+
+}
+p {font-size: 20px}
