@@ -1,5 +1,5 @@
 // comentariu
-
+//c2
 var poze = [	
 'img/PICT2289ed an.JPG', 		//0
 'img/20180608_204203.jpg',		//1
